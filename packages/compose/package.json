@@ -1,11 +1,12 @@
 {
-  "name": "@tclain-dev/xstate-config-compose",
+  "name": "xstate-config-compose",
   "version": "0.0.4",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "source": "src/index.ts",
   "license": "MIT",
   "scripts": {
+    "prepublishOnly": "yarn build",
     "build": "microbundle",
     "start": "microbundle watch"
   },
@@ -15,5 +16,5 @@
   "devDependencies": {
     "xstate": "^4.11.0"
   },
-  "gitHead": "aa11fabedf425bc432eec7c35f2af8346eed35a8"
+  "gitHead": "259cea3843438b7717a7061931ce2cf135bd0904"
 }
