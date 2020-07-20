@@ -1,7 +1,7 @@
 {
   "name": "xstate-config-compose",
   "description": "a simple way to compose different xstate configuration",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "source": "src/index.ts",
