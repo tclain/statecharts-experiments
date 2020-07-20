@@ -1,0 +1,18 @@
+{
+  "name": "@statecharts-experiments/compose",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "source": "src/index.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle",
+    "start": "microbundle watch"
+  },
+  "peerDependencies": {
+    "xstate": "^4.11.0"
+  },
+  "devDependencies": {
+    "xstate": "^4.11.0"
+  }
+}

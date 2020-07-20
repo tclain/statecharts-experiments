@@ -1,0 +1,1 @@
+{"version":3,"file":"index.modern.js","sources":["../src/index.ts"],"sourcesContent":["import { MachineConfig } from \"xstate\";\n\ntype AnyMachineConfig = MachineConfig<any, any, any>;\n\nexport const composeConfig = (\n  ...configs: AnyMachineConfig[]\n): AnyMachineConfig => configs[0];\n"],"names":["composeConfig","configs"],"mappings":"AAIaA,MAAAA,EAAgB,IACxBC,IACkBA,EAAQ"}
