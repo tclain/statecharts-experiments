@@ -1,5 +1,6 @@
 {
   "name": "xstate-config-compose",
+  "description": "a simple way to compose different xstate configuration",
   "version": "0.0.5",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
