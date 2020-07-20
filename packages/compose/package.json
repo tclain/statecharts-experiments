@@ -1,5 +1,5 @@
 {
-  "name": "@statecharts-experiments/compose",
+  "name": "@tclain-dev/xstate-config-compose",
   "version": "0.0.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
