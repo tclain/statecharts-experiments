@@ -1,6 +1,5 @@
 {
   "name": "example",
-  "version": "1.0.1",
   "private": "true",
   "main": "index.js",
   "author": "Timothée Clain",
